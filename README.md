@@ -15,7 +15,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 - All the solutions should give expected solution and pass all tests in Leetcode/GFG.
 - Please don't spam any file with useless comments and unwanted changes.
 - Comment the link to the problem on top of the code (Leetcode/GFG).
-- If you want to add a different approach to the problem which already exists in the repository with same implementation language. Then you can add it to the same problem file. Add your code in the comment with the approach name. Take reference of [this problem](Python\02_Maximum%20Subarray.py).
+- If you want to add a different approach to the problem which already exists in the repository with same implementation language. Then you can add it to the same problem file. Add your code in the comment with the approach name. Take reference of [this problem](Python/02_Maximum%20Subarray.py).
 - Please send PR for the problem using the title: Problem No. | Problem name | Language
 - Maintain the format of file name (problemnumber_problemname).
 
