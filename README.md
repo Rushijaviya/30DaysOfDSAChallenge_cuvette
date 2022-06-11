@@ -25,3 +25,4 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 |:---|:---|:---|
 | Day 1 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium
 | Day 2 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy
+| Day 3 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy
