@@ -26,3 +26,4 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 1 | Sort Colors | Medium | [LeetCode](https://leetcode.com/problems/sort-colors/) | [GFG](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
 | Day 2 | Maximum Subarray | Easy | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | [GFG](https://practice.geeksforgeeks.org/problems/maximum-sub-array5443/1)
 | Day 3 | Implement Stack using Queues | Easy | [LeetCode](https://leetcode.com/problems/implement-stack-using-queues/) | [GFG](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+| Day 4 | Search in Rotated Sorted Array | Medium | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [GFG](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)
