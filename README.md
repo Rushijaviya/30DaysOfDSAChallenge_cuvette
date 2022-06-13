@@ -27,3 +27,4 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 2 | Maximum Subarray | Easy | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | [GFG](https://practice.geeksforgeeks.org/problems/maximum-sub-array5443/1)
 | Day 3 | Implement Stack using Queues | Easy | [LeetCode](https://leetcode.com/problems/implement-stack-using-queues/) | [GFG](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 | Day 4 | Search in Rotated Sorted Array | Medium | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [GFG](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)
+| Day 5 | Valid Parentheses | Easy | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | [GFG](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
