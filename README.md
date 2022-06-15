@@ -29,3 +29,4 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 4 | Search in Rotated Sorted Array | Medium | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [GFG](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)
 | Day 5 | Valid Parentheses | Easy | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | [GFG](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
 | Day 6 | Linked List Cycle | Easy | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | [GFG](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+| Day 7 | Middle of the Linked List | Easy | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | [GFG](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
