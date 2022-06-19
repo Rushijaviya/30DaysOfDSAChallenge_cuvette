@@ -32,4 +32,4 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 7 | Middle of the Linked List | Easy | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | [GFG](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
 | Day 8 | Search a 2D Matrix | Medium | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | [GFG](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)
 | Day 9 | Spiral Matrix | Medium | [LeetCode](https://leetcode.com/problems/spiral-matrix/description/) | [GFG](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
-| Day 10 | First non-repeating character in a stream | - | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
+| Day 10 | First non-repeating character in a stream | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
