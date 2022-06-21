@@ -34,7 +34,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 9 | Spiral Matrix | Medium | [LeetCode](https://leetcode.com/problems/spiral-matrix/description/) | [GFG](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
 | Day 10 | First non-repeating character in a stream | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
 | Day 11 | Minimum Window Substring | Hard | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | [GFG](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1)
-
+| Day 12 | Minimum Jumps to Reach Home | Medium | [LeetCode](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
 
 ## Contributors ✨
 
