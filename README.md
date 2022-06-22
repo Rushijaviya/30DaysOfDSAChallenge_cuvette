@@ -36,6 +36,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 11 | Minimum Window Substring | Hard | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | [GFG](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1)
 | Day 12 | Minimum Jumps to Reach Home | Medium | [LeetCode](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
 | Day 13 | Nth node from end of linked list | Easy | [LeetCode]($) | [GFG](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+| Day 14 | Palindrome Linked List | Easy | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/description/) | [GFG](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
 
 ## Contributors ✨
 
