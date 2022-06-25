@@ -39,6 +39,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 14 | Palindrome Linked List | Easy | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/description/) | [GFG](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
 | Day 15 | Add Two Numbers | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | [GFG](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 | Day 16 | Union of Two Linked Lists | Easy | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1)
+| Day 17 | Nth Fibonacci Number | Easy | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | [GFG](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)
 
 ## Contributors ✨
 
