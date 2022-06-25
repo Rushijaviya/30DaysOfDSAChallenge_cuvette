@@ -1,3 +1,5 @@
+// Union of Two Linked Lists
+// https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1
 
 struct Node* makeUnion(struct Node* head1, struct Node* head2)
 {
