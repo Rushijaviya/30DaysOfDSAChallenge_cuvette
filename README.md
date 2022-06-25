@@ -35,9 +35,10 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 10 | First non-repeating character in a stream | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
 | Day 11 | Minimum Window Substring | Hard | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | [GFG](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1)
 | Day 12 | Minimum Jumps to Reach Home | Medium | [LeetCode](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
-| Day 13 | Nth node from end of linked list | Easy | [LeetCode]($) | [GFG](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+| Day 13 | Nth node from end of linked list | Easy | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
 | Day 14 | Palindrome Linked List | Easy | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/description/) | [GFG](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
 | Day 15 | Add Two Numbers | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | [GFG](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+| Day 16 | Union of Two Linked Lists | Easy | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1)
 
 ## Contributors ✨
 
