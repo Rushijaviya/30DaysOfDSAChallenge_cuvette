@@ -40,7 +40,8 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 15 | Add Two Numbers | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | [GFG](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 | Day 16 | Union of Two Linked Lists | Easy | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1)
 | Day 17 | Nth Fibonacci Number | Easy | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | [GFG](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)
-| Day 18 | Stock buy and sell | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)
+| Day 18 | 0 - 1 Knapsack Problem | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+| Day 19 | Stock buy and sell | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)
 
 ## Contributors ✨
 
