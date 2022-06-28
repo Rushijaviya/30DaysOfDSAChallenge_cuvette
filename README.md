@@ -42,6 +42,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 17 | Nth Fibonacci Number | Easy | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | [GFG](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)
 | Day 18 | 0 - 1 Knapsack Problem | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
 | Day 19 | Stock buy and sell | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)
+| Day 20 | Egg Dropping Puzzle | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1)
 
 ## Contributors ✨
 
