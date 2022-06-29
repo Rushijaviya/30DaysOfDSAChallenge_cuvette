@@ -43,6 +43,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 18 | 0 - 1 Knapsack Problem | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
 | Day 19 | Stock buy and sell | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)
 | Day 20 | Egg Dropping Puzzle | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1)
+| Day 21 | Left View of Binary Tree | Easy | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
 
 ## Contributors ✨
 
