@@ -46,6 +46,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 21 | Left View of Binary Tree | Easy | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
 | Day 22 | Vertical Traversal of Binary Tree | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1)
 | Day 23 | Lowest Common Ancestor in a Binary Tree | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
+| Day 24 | Serialize and Deserialize a Binary Tree | Medium | [LeetCode](#) | [GFG](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
 
 ## Contributors ✨
 
