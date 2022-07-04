@@ -48,6 +48,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 23 | Lowest Common Ancestor in a Binary Tree | Medium | - | [GFG](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 | Day 24 | Serialize and Deserialize a Binary Tree | Medium | - | [GFG](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
 | Day 25 | Sort a stack | Easy | - | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+| Day 26 | Count Inversions | Medium | - | [GFG](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
 
 ## Contributors ✨
 
