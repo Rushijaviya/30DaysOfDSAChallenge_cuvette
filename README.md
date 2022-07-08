@@ -52,6 +52,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 27 | Find a pair with given target in BST | Medium | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [GFG](https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1)
 | Day 28 | Array to BST | Easy | - | [GFG](https://practice.geeksforgeeks.org/problems/array-to-bst4443/1)
 | Day 29 | Multiply two strings | Medium | - | [GFG](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
+| Day 30 | Intersection Point in Y Shapped Linked Lists | Medium | - | [GFG](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 
 ## Contributors ✨
 
